@@ -6,5 +6,5 @@ run this code and you will see
 ```bash
 sudo apt get insane code
 ```
-![Screenshot of hassiba ben boulid a hero of algeria](https://babzman.com/hassiba-ben-bouali-licone-de-la-resistance-feminine-de-la-guerre-de-liberation/)
+![Screenshot of hassiba ben boulid a hero of algeria](https://babzman.com/hassiba-ben-bouali-licone-de-la-resistance-feminine-de-la-guerre-de-liberation/.svg)
 
